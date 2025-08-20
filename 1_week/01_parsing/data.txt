@@ -1,0 +1,5 @@
+Name:Иван, Amount:49
+Name:Петр, Amount:65
+Name:Сергей, Amount:32
+Name:Акс, Amount:20
+Name:Петр, Amount:-80
