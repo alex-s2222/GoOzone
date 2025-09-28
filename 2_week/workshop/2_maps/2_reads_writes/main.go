@@ -1,4 +1,4 @@
-package readswrites
+package main
 
 import (
 	"fmt"
